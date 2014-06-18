@@ -1,4 +1,4 @@
-class TodoList
+class Todo
   attr_reader :name, :tasks
   def initialize name, tasks=[]
     @name = name

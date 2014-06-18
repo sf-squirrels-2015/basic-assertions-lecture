@@ -1,12 +1,19 @@
 # Basic Expectation Library
-##Assertions:
-- assert_equals
-- assert_not_equal
-- assert_true
-- assert_false
 
-##Example
-Use the expectation library to build a todo list app with the following features:
+## Why do we test?
+- reveals intention
+- our code works as intended
+- code confidence to add/remove/modify features
+- easier bug fixes with regression testing
+- drives good design
+
+## Why do we automate testing?
+- separation of concerns
+- faster feedback loop
+- we can iterate faster
+- a great documentation
+
+## Features
 - user can create a todo list with a name
 - todo list starts with an empty task list
 - user can add tasks to a todo list
