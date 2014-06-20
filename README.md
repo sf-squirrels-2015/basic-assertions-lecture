@@ -1,5 +1,7 @@
 # Basic Expectation Library
 
+You can watch [my lecture](https://www.youtube.com/watch?v=7wKEiWF4_qg) given on 6/16
+
 ## Why do we test?
 - reveals intention
 - our code works as intended
