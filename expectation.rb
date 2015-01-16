@@ -1,3 +1,8 @@
+# this is very similar to a popular test suite called Minitest, go check it out
+# and look at their code...you can do it!
+
+# Don't hesitate to port this file into your sudoku or other code and use it to test.
+
 def display message
   puts "*" * 50
   puts message
